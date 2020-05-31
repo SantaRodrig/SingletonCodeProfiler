@@ -1,4 +1,4 @@
-# SingletonCodeProfiler
+# Singleton Code Profiler
 In this Project, a code profiler was created using the singleton pattern in java.
 
 The code profiler is able to measure how long a sections of code took to execute and can hold a message with it.
